@@ -2,12 +2,7 @@
 
 ## The Advantages of Open Source Software
 
-This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
-
-Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
-
-- one item
-- another item
+The most obvious advantage of open source software being free is that it removes some of the financial barriers to accessing technology. In some ways, it makes software less of a privilege, as long as you have access to a computer.  
 
 ### 1. Free access and reduced financial inequality
 The most obvious advantage of open source software is that it is often free. In some ways, this means that software is no longer a privilege reserved for people who can afford expensive programs. As long as you have access to a computer, you can access a wide range of software without having to pay for expensive licences
